@@ -1,0 +1,3 @@
+/run/media/davidmaia/Seagate Expansion Drive/Projects/.Net/user-register-test2/obj/Debug/netcoreapp2.1/user-register-test.csprojAssemblyReference.cache
+/run/media/davidmaia/Seagate Expansion Drive/Projects/.Net/user-register-test2/obj/Debug/netcoreapp2.1/user-register-test.AssemblyInfoInputs.cache
+/run/media/davidmaia/Seagate Expansion Drive/Projects/.Net/user-register-test2/obj/Debug/netcoreapp2.1/user-register-test.AssemblyInfo.cs
